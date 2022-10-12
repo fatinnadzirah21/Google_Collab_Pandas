@@ -1,2 +1,2 @@
 # Google_Collab_Pandas
-Panda Library with Google Collab.
+Every code utilising Panda Library with Google Collab.
