@@ -1,2 +1,2 @@
 # Google_Collab_Pandas
-Every code utilising Panda Library with Google Collab.
+First_Lesson.ipynb - inspect data with python
